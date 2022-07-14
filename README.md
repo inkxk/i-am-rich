@@ -1,4 +1,4 @@
-# flutter_application_1
+# I Am Rich
 
 A new Flutter project.
 
